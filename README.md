@@ -2,44 +2,66 @@
 
 ![Profile Banner](https://github.com/agildegozaru/agildegozaru/blob/main/banner_git.jpeg)
 
-Welcome to my GitHub profile! I'm a **5th-semester student** in **Information Technology Education**, **Faculty of Computer Science**, **Brawijaya University**. I am passionate about **software development, UI/UX design, entrepreneurship, and digital innovation**.  
+Welcome to my GitHub profile! I'm a **5th-semester student** in **Information Technology Education**,  
+**Faculty of Computer Science**, **Brawijaya University**.
+
+I focus on **Frontend Development, UI/UX Design, Educational Technology**, and **Digital Innovation**,  
+especially building **clean, structured, and user-friendly interfaces**.
 
 ---
 
 ## 🔭 Currently Working On
-- Developing **Android apps** using Kotlin & Jetpack Compose  
-- Exploring **AI and Machine Learning** in education  
-- Creating **interactive and gamified learning tools**  
+- Developing **Frontend Web Applications** using **Laravel Blade + Tailwind CSS + JavaScript**
+- Designing and implementing **OPAC / Digital Library Interfaces**
+- Creating **static frontend prototypes** with **dummy data**
+- Exploring **AI & Interactive Learning Media** for education
 
 ---
 
 ## 💻 Tech Stack & Skills
+
+### Frontend & Web
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Blade](https://img.shields.io/badge/Laravel_Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Database & Local Server
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
+
+### Mobile & Backend (Basic)
 ![Kotlin](https://img.shields.io/badge/Kotlin-339933?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 
 ## 🚀 Projects
-Here are some highlights from my work:  
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Mentorify Kotlin** | Android app for mentoring & scheduling classes | WIP |
-| **EduReserv** | Reservation system for classrooms & labs | Completed |
-| **AR Learning Media** | Interactive AR content for PJOK & STEM | WIP |
-| **Entrepreneur Festival** | Student entrepreneurship platform | Completed |
+| Project | Description | Role | Status |
+|-------|------------|------|--------|
+| **Digilib OPAC (Laravel)** | Frontend OPAC Digital Library using Blade & Tailwind | Frontend Developer | WIP |
+| **EduReserv** | Reservation system for classrooms & labs | UI & Frontend | Completed |
+| **AR Learning Media** | Interactive AR learning media for PJOK & STEM | Designer & Developer | WIP |
+| **Entrepreneur Festival** | Student entrepreneurship event & platform | Project Lead | Completed |
 
-*(Check my repositories for full details!)*  
+---
+
+## 🧪 Development Approach
+- **Agile Methodology**
+- Incremental & meaningful **commit history**
+- **Frontend-focused testing** (UI, usability, responsiveness)
+- Dummy data using **array / JSON-based mock data**
+- Prepared for future **backend & database integration**
 
 ---
 
@@ -58,6 +80,7 @@ Here are some highlights from my work:
 ---
 
 ## ⚡ Fun Facts
-- I love **mixing creativity and tech** to make learning fun 🎨💻  
-- Currently exploring **AI in education** & **gamified learning experiences**  
-- Always open to **collaborate on exciting projects**! 🚀
+- I enjoy **building interfaces that feel simple but thoughtful**
+- Passionate about **education, entrepreneurship, and digital innovation**
+- Love turning **complex systems into clean UI experiences** 🎨💻
+- Always open for **collaboration & frontend projects** 🚀
