@@ -1,4 +1,4 @@
-# Hi there, I'm M. Agiel Mutahhari 👋
+# Hi there, I'm Agiel👋
 
 ![Profile Banner](https://github.com/agildegozaru/agildegozaru/blob/main/banner_git.jpeg)
 
