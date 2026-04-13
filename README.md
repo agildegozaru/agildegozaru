@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://github.com/agildegozaru/agildegozaru/blob/main/banner_git.jpeg)
 
-Welcome to my GitHub profile! I'm a **5th-semester student** in **Information Technology Education**,  
+Welcome to my GitHub profile! I'm a **6th-semester student** in **Information Technology Education**,  
 **Faculty of Computer Science**, **Brawijaya University**.
 
 I focus on **Frontend Development, UI/UX Design, Educational Technology**, and **Digital Innovation**,  
